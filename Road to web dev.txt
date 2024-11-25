@@ -1,0 +1,10 @@
+I WILL BE A FRONTEND WEB DEVELOPER IN 2015
+DONE: (source: Roadmap.sh)
+- Basic HTML
+- Basic CSS + Boostrap
+- Basic Javascript
+- Git
+
+ONPROGRESS:
+- Git Hub
+- Astro JS
