@@ -2,17 +2,19 @@ I WILL BE A FRONTEND WEB DEVELOPER IN 2025
 
 DONE: (source: Roadmap.sh)
 - Basic HTML
-- Basic CSS + Boostrap
+- Baasic CSS + Boostrap
 - Basic Javascript
 - Git
 
 ONPROGRESS:
-- Git Hub
-- Astro JS
+- Git Hub -- 40%
+- Astro JS -- 10%
 
 NEXT STEP:
 (source: Roadmap.sh)
 - Belajar npm
 - React JS
+- Veu.JS (alternative)
+- Tailwind
 
-(syarat: Konsisten)
+
