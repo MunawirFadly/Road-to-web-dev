@@ -6,9 +6,11 @@ DONE: (source: Roadmap.sh)
 - Git
 
 ONPROGRESS:
-- Git Hub
-- Astro JS
+- Git Hub -- 40%
+- Astro JS -- 10%
 
 NEXT STEP:
 (source: Roadmap.sh)
+- Belajar npm
 - React JS
+- Tailwind
