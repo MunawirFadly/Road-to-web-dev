@@ -16,5 +16,5 @@ NEXT STEP:
 - React JS
 - Veu.JS (alternative)
 - Tailwind
-
+- CSS Architecture (optional)
 
